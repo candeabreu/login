@@ -1,9 +1,9 @@
 .body {
   font-family: "Abel", sans-serif;
   font-weight: normal;
-  font-size: 22px;
-  color: #ffffff;
-  background-color: #ffc0cb;
+  font-size: 20px;
+  color: #E5BA73;
+  background-color: #FFF6BD;
   background-image: url("../imagenes/fondoconfeti.png");
 }
 
@@ -11,7 +11,7 @@
   font-family: "Abel", sans-serif;
   text-align: center;
   padding-top: 4%;
-  color: #ffffff;
+  color: #E5BA73;
 }
 
 .subtituloPagina {
@@ -23,7 +23,7 @@
 .cajaFormulario {
   width: 350px;
   height: 400px;
-  background-color: #ffc0cb;
+  background-color: #FAEAB1;
   margin: auto auto auto auto;
   font-family: "Abel", sans-serif;
   -webkit-box-shadow: 2px 2px 41px -16px rgba(0, 0, 0, 0.75);
@@ -37,15 +37,13 @@
 }
 .cajaFormulario .formulario .opcionFormulario {
   font-size: 18px;
-  padding: 40%;
-  margin: auto;
   text-align: center;
 }
 
 .botonFormulario {
-  background-color: #d87093;
+  background-color: #E5BA73;
   color: #ffffff;
-  border-color: #d87093;
+  border-color: #E5BA73;
   font-size: 20px;
   width: 100%;
   margin: 3px;
@@ -59,8 +57,8 @@
   height: 21px;
   width: 100%;
   border: none;
-  border-bottom: 1px solid #800080;
-  background-color: #ffc0cb;
+  border-bottom: 1px solid #C58940;
+  background-color: #FAEAB1;
 }
 
 .subtituloFormulario {
@@ -72,7 +70,7 @@
 }
 
 .subtituloFormulario:hover {
-  color: #800080;
+  color: #FAAB78;
   text-decoration: underline;
 }
 
@@ -81,12 +79,12 @@
 }
 
 .botonFormulario:hover {
-  background-color: #800080;
+  background-color: #FAAB78;
 }
 
 .inputFormulario:focus {
   outline: none;
-  background-color: rgba(216, 112, 147, 0.8078431373);
+  background-color: #FAAB78;
 }
 
 * {
